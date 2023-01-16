@@ -312,3 +312,13 @@ i:hover{
     padding: 20px 15px;
     color: #fff;
 }
+
+@media all and (max-width: 950px){
+    .part-left, .part-right{
+        width: 100%;
+    }
+    .main{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+}
