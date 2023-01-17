@@ -369,4 +369,7 @@ i:hover{
     .contact__content{
         margin-left: 10%;
     }
+    .photo{
+        width: 50%;
+    }
 }
